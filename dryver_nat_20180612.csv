@@ -124,8 +124,8 @@ VVUV305A,Victoria,NA,NA,NA,gravel,Alluvial,sand conglomerate,conglomerate,sandy 
 VVUV305B,Victoria,NA,NA,NA,gravel,Alluvial,sand conglomerate,conglomerate,sandy conglomerate,5.601466797,64.33142559,1.198013417,8.16816331,56.80442481,0.488550715,87,42,72,-45,-15,0.48,0.83,26.33,30,3.67
 VVUV305C,Victoria,NA,NA,NA,diamictite,Older Glacial,sand conglomerate,conglomerate,sandy conglomerate,NA,NA,NA,NA,NA,NA,103,208,72,105,-31,2.02,0.7,22.33,28.33,6
 VVUV305D,Victoria,NA,NA,NA,diamictite,Older Glacial,sand conglomerate,conglomerate,sandy conglomerate,NA,NA,NA,NA,NA,NA,126,183,57,57,-69,1.45,0.45,26.67,30.67,4
-VVUV306A,Victoria,NA,NA,NA,silt,Lacustrine,sand silt,conglomerate,sandy silt congolmerate,NA,NA,NA,NA,NA,NA,130,128,133,-2,3,0.98,1.02,41.67,41.67,0
-VVUV306B,Victoria,NA,NA,NA,silt,Lacustrine,sand silt,conglomerate,sandy silt congolmerate,NA,NA,NA,NA,NA,NA,105,114,38,9,-67,1.09,0.36,43.33,48.33,5
+VVUV306A,Victoria,NA,NA,NA,silt,Lacustrine,sand silt,conglomerate,sandy silt conglomerate,NA,NA,NA,NA,NA,NA,130,128,133,-2,3,0.98,1.02,41.67,41.67,0
+VVUV306B,Victoria,NA,NA,NA,silt,Lacustrine,sand silt,conglomerate,sandy silt conglomerate,NA,NA,NA,NA,NA,NA,105,114,38,9,-67,1.09,0.36,43.33,48.33,5
 VVUV308A,Victoria,NA,NA,NA,gravel,Alluvial,sand conglomerate,conglomerate,sandy conglomerate,NA,NA,NA,NA,NA,NA,82,103,48,21,-34,1.26,0.59,29.33,55,25.67
 VVUV308B,Victoria,NA,NA,NA,diamictite,Older Glacial,sand conglomerate,conglomerate,sandy conglomerate,NA,NA,NA,NA,NA,NA,109,123,56,14,-53,1.13,0.51,35,54.33,19.33
 VVUV309A,Victoria,NA,NA,NA,gravel,Alluvial,sand conglomerate,conglomerate,sandy conglomerate,NA,NA,NA,NA,NA,NA,75,78,42,3,-33,1.04,0.56,38.33,49.33,11
@@ -141,18 +141,18 @@ WVBP207A,Wright,1,NA,NA,till,Younger Glacial,breccia gravel tillite,breccia,grav
 WVBP207B,Wright,0.962916565,46148761.12,0.948617741,till,Younger Glacial,breccia gravel tillite,breccia,gravel breccia,3.027422355,28.40735093,0.929169976,5.655429851,52.11550961,-0.066303968,56,82,43,26,-13,1.46,0.77,5,15,10
 WVBP208A,Wright,0.716174763,42841307.67,0.48171066,till,Younger Glacial,breccia gravel tillite,breccia,gravel breccia,NA,NA,NA,NA,NA,NA,53,37,32,-16,-21,0.7,0.6,6.67,11.67,5
 WVBP208B,Wright,0.993210565,47303749,0.440033102,till,Younger Glacial,breccia gravel tillite,breccia,gravel breccia,NA,NA,NA,NA,NA,NA,99,61,93,-38,-6,0.62,0.94,33.33,38.33,5
-WVBP275A,Wright,0.959090918,46125832.67,0.691887737,till,Younger Glacial,sand mud gravel,conglomerate,sandy gravel congolmerate,NA,NA,NA,NA,NA,NA,87,181,373,94,286,2.08,4.29,15,21.67,6.67
-WVBP275B,Wright,0.931763949,57030146,0.202871156,till,Younger Glacial,sand mud gravel,conglomerate,sandy gravel congolmerate,NA,NA,NA,NA,NA,NA,54,89,65,35,11,1.65,1.2,0,0,0
+WVBP275A,Wright,0.959090918,46125832.67,0.691887737,till,Younger Glacial,sand mud gravel,conglomerate,sandy gravel conglomerate,NA,NA,NA,NA,NA,NA,87,181,373,94,286,2.08,4.29,15,21.67,6.67
+WVBP275B,Wright,0.931763949,57030146,0.202871156,till,Younger Glacial,sand mud gravel,conglomerate,sandy gravel conglomerate,NA,NA,NA,NA,NA,NA,54,89,65,35,11,1.65,1.2,0,0,0
 WVBP276A,Wright,0.900609258,53200329.67,0.550454948,till,Younger Glacial,breccia gravel tillite,breccia,gravel breccia,NA,NA,NA,NA,NA,NA,117,78,53,-39,-64,0.67,0.45,13.33,18.33,5
 WVBP276B,Wright,0.769008572,56336484,0.316220062,gravel,Colluvium,breccia gravel tillite,breccia,Colluvium,NA,NA,NA,NA,NA,NA,51,90,74,39,23,1.76,1.45,20,23.33,3.33
 WVBP277A,Wright,0.84352643,53656128,0.803614314,gravel,Colluvium,breccia gravel tillite,breccia,Colluvium,NA,NA,NA,NA,NA,NA,39,82,48,43,9,2.1,1.23,20,18.33,-1.67
 WVBP277B,Wright,0.801105023,49201911.67,0.706523901,gravel,Colluvium,breccia gravel tillite,breccia,Colluvium,NA,NA,NA,NA,NA,NA,38,49,46,11,8,1.29,1.21,5,16.67,11.67
-WVBW110A,Wright,0.991927333,32153242,0.443832373,till,Local Glacial,sand silt,conglomerate,sandy silt congolmerate,2.606303851,19.6008067,0.5895273,3.241885067,23.09176035,0.359226861,53,152,93,99,40,2.87,1.75,25,10.67,-14.33
-WVBW110B,Wright,0.961095333,28394651.67,1.303812893,till,Younger Glacial,sand silt,conglomerate,sandy silt congolmerate,6.593164895,55.84881378,1.059665785,5.842168108,54.9409233,0.194216229,132,297,295,165,163,2.25,2.23,21,19.67,-1.33
-WVBW111A,Wright,0.961387333,33955465,0.646753584,silt,Lacustrine,sand silt,conglomerate,sandy silt congolmerate,3.461251461,31.77711111,0.924274015,3.713604565,28.22702463,0.019528555,63,120,48,57,-15,1.9,0.76,20,13.67,-6.33
-WVBW111B,Wright,0.804342667,36951873,0.982099588,till,Younger Glacial,sand silt,conglomerate,sandy silt congolmerate,6.067432296,41.88460895,0.858644833,4.986567315,37.7733884,0.394742285,76,57,43,-19,-33,0.75,0.57,24.33,20,-4.33
-WVBW112A,Wright,0.222855333,22406089.33,1.340094548,till,Younger Glacial,sand mud gravel,conglomerate,sandy gravel congolmerate,3.753076027,32.5629285,0.969064919,5.037515992,52.43719946,1.022593138,115,37,104,-78,-11,0.32,0.9,26.67,13.33,-13.33
-WVBW112B,Wright,0.952916,38853897.67,0.89117144,till,Younger Glacial,sand mud gravel,conglomerate,sandy gravel congolmerate,3.493307509,24.6271879,0.464170903,3.186295451,30.41467694,0.275708147,127,129,158,2,31,1.02,1.24,15.67,12.67,-3
+WVBW110A,Wright,0.991927333,32153242,0.443832373,till,Local Glacial,sand silt,conglomerate,sandy silt conglomerate,2.606303851,19.6008067,0.5895273,3.241885067,23.09176035,0.359226861,53,152,93,99,40,2.87,1.75,25,10.67,-14.33
+WVBW110B,Wright,0.961095333,28394651.67,1.303812893,till,Younger Glacial,sand silt,conglomerate,sandy silt conglomerate,6.593164895,55.84881378,1.059665785,5.842168108,54.9409233,0.194216229,132,297,295,165,163,2.25,2.23,21,19.67,-1.33
+WVBW111A,Wright,0.961387333,33955465,0.646753584,silt,Lacustrine,sand silt,conglomerate,sandy silt conglomerate,3.461251461,31.77711111,0.924274015,3.713604565,28.22702463,0.019528555,63,120,48,57,-15,1.9,0.76,20,13.67,-6.33
+WVBW111B,Wright,0.804342667,36951873,0.982099588,till,Younger Glacial,sand silt,conglomerate,sandy silt conglomerate,6.067432296,41.88460895,0.858644833,4.986567315,37.7733884,0.394742285,76,57,43,-19,-33,0.75,0.57,24.33,20,-4.33
+WVBW112A,Wright,0.222855333,22406089.33,1.340094548,till,Younger Glacial,sand mud gravel,conglomerate,sandy gravel conglomerate,3.753076027,32.5629285,0.969064919,5.037515992,52.43719946,1.022593138,115,37,104,-78,-11,0.32,0.9,26.67,13.33,-13.33
+WVBW112B,Wright,0.952916,38853897.67,0.89117144,till,Younger Glacial,sand mud gravel,conglomerate,sandy gravel conglomerate,3.493307509,24.6271879,0.464170903,3.186295451,30.41467694,0.275708147,127,129,158,2,31,1.02,1.24,15.67,12.67,-3
 WVBW114A,Wright,1,NA,NA,gravel,Colluvium,breccia gravel tillite,breccia,Colluvium,NA,NA,NA,NA,NA,NA,205,59,32,-146,-173,0.29,0.16,28.33,17.33,-11
 WVBW114B,Wright,NA,26262012.33,-0.115780439,till,Older Glacial,breccia gravel tillite,breccia,gravel breccia,3.411424002,26.21519409,1.719338069,4.11547179,33.22055738,0.303593923,145,64,45,-81,-100,0.44,0.31,23.67,12,-11.67
 WVBW118A,Wright,1,34907304.67,-0.034818526,till,Older Glacial,sand conglomerate,conglomerate,sandy conglomerate,4.241237655,38.32652798,0.891742422,3.514974519,39.93770435,0.179267471,NA,NA,NA,NA,NA,NA,NA,15,19,4
@@ -173,34 +173,34 @@ WVBW129A,Wright,NA,NA,NA,till,Younger Glacial,breccia gravel tillite,breccia,gra
 WVBW129B,Wright,NA,NA,NA,till,Younger Glacial,breccia gravel tillite,breccia,gravel breccia,NA,NA,NA,NA,NA,NA,110,105,112,-5,2,0.95,1.02,10.67,7.33,-3.33
 WVBW130A,Wright,NA,NA,NA,diamictite,Older Glacial,sand silt gravel,breccia,gravel breccia,NA,NA,NA,NA,NA,NA,30,49,62,19,32,1.63,2.07,17.67,20.33,2.67
 WVBW130B,Wright,NA,NA,NA,diamictite,Older Glacial,sand silt gravel,breccia,gravel breccia,NA,NA,NA,NA,NA,NA,31,29,33,-2,2,0.94,1.06,18.67,15.67,-3
-WVBW131A,Wright,NA,NA,0.336812341,silt,Lacustrine,sand mud gravel,conglomerate,sandy gravel congolmerate,NA,NA,NA,NA,NA,NA,62,62,55,0,-7,1,0.89,22.67,11.33,-11.33
-WVBW131B,Wright,NA,NA,-0.166513731,silt,Lacustrine,sand mud gravel,conglomerate,sandy gravel congolmerate,NA,NA,NA,NA,NA,NA,84,91,49,7,-35,1.08,0.58,13.33,14.33,1
-WVBW132A,Wright,0.62401432,20874351,-0.030195773,till,Younger Glacial,sand silt,conglomerate,sandy silt congolmerate,3.429748285,28.16278211,0.546965902,3.451247044,26.43688014,0.40920471,125,128,132,3,7,1.02,1.06,16,11,-5
-WVBW132B,Wright,0.97787105,24686039.67,0.889236973,till,Older Glacial,sand silt,conglomerate,sandy silt congolmerate,2.669199793,22.66057865,1.352533434,3.142162292,26.58511484,0.288267104,140,85,74,-55,-66,0.61,0.53,27.67,11.67,-16
+WVBW131A,Wright,NA,NA,0.336812341,silt,Lacustrine,sand mud gravel,conglomerate,sandy gravel conglomerate,NA,NA,NA,NA,NA,NA,62,62,55,0,-7,1,0.89,22.67,11.33,-11.33
+WVBW131B,Wright,NA,NA,-0.166513731,silt,Lacustrine,sand mud gravel,conglomerate,sandy gravel conglomerate,NA,NA,NA,NA,NA,NA,84,91,49,7,-35,1.08,0.58,13.33,14.33,1
+WVBW132A,Wright,0.62401432,20874351,-0.030195773,till,Younger Glacial,sand silt,conglomerate,sandy silt conglomerate,3.429748285,28.16278211,0.546965902,3.451247044,26.43688014,0.40920471,125,128,132,3,7,1.02,1.06,16,11,-5
+WVBW132B,Wright,0.97787105,24686039.67,0.889236973,till,Older Glacial,sand silt,conglomerate,sandy silt conglomerate,2.669199793,22.66057865,1.352533434,3.142162292,26.58511484,0.288267104,140,85,74,-55,-66,0.61,0.53,27.67,11.67,-16
 WVBW133A,Wright,0.316004536,46868050.67,1.197592843,till,Older Glacial,sand silt gravel,breccia,sandy breccia,1.801661316,16.10702372,0.541114685,4.506576997,32.87232121,-0.067760872,46,38,42,-8,-4,0.83,0.91,29.67,14,-15.67
 WVBW133B,Wright,0.206814513,44596274.33,0.424004758,till,Older Glacial,sand silt gravel,breccia,sandy breccia,5.63745149,49.60246762,0.958937703,7.560425802,60.29382608,0.548247394,45,102,65,57,20,2.27,1.44,15.67,15.33,-0.33
 WVBW134A,Wright,0.553474367,37123734.33,0.027090729,diamictite,Older Glacial,sand silt gravel,breccia,sandy breccia,4.530401316,58.29408704,1.892745309,6.083671331,44.65186201,-0.16836614,33,25,40,-8,7,0.76,1.21,30.67,20.33,-10.33
 WVBW134B,Wright,0.870670025,26668049,-0.19214556,till,Older Glacial,sand silt gravel,breccia,sandy breccia,6.967424934,51.81975285,1.465893009,8.105938801,70.238365,0.155807911,27,28,26,1,-1,1.04,0.96,29,21.33,-7.67
-WVBW135A,Wright,0.391567625,21225738.33,-0.030735679,gravel,Alluvial,sand mud gravel,conglomerate,sandy gravel congolmerate,6.067964544,45.08378726,-0.020518799,1.606802,14.28601981,0.387180014,27,335,70,308,43,12.41,2.59,28.33,25,-3.33
-WVBW135B,Wright,0.101368254,23814959.67,0.611838202,till,Older Glacial,sand mud gravel,conglomerate,sandy gravel congolmerate,6.818563579,55.45097823,-0.175570922,4.487806827,37.91296805,1.427901213,78,135,138,57,60,1.73,1.77,30.67,21.67,-9
+WVBW135A,Wright,0.391567625,21225738.33,-0.030735679,gravel,Alluvial,sand mud gravel,conglomerate,sandy gravel conglomerate,6.067964544,45.08378726,-0.020518799,1.606802,14.28601981,0.387180014,27,335,70,308,43,12.41,2.59,28.33,25,-3.33
+WVBW135B,Wright,0.101368254,23814959.67,0.611838202,till,Older Glacial,sand mud gravel,conglomerate,sandy gravel conglomerate,6.818563579,55.45097823,-0.175570922,4.487806827,37.91296805,1.427901213,78,135,138,57,60,1.73,1.77,30.67,21.67,-9
 WVBW175A,Wright,0.307890304,27993051.67,-0.647938076,till,Older Glacial,breccia gravel tillite,breccia,gravel breccia,4.826748172,35.2577359,-0.268591374,4.435428337,36.1301878,0.723802086,NA,NA,NA,NA,NA,NA,NA,15,16.67,1.67
 WVBW175B,Wright,0.234717715,32585122.33,-0.210226625,gravel,Alluvial,sand silt gravel,conglomerate,sandy conglomerate,5.624295875,39.45163501,-0.221602182,2.485793968,19.37203955,0.468882416,NA,NA,NA,NA,NA,NA,NA,18.33,23.33,5
-WVBW176A,Wright,0.456324471,28029429,-0.002582194,gravel,Alluvial,sand silt gravel,conglomerate,sandy gravel congolmerate,5.534819294,46.53899611,0.052530042,2.849951255,25.64667738,0.775043209,105,232,432,127,327,2.21,4.11,21.67,21.67,0
-WVBW176B,Wright,0.1734965,22968661,-0.075455334,gravel,Alluvial,sand silt gravel,conglomerate,sandy gravel congolmerate,4.943585935,38.28746387,-0.349918633,2.699565113,26.65902107,0.832292701,102,126,131,24,29,1.24,1.28,13.33,18.33,5
-WVBW177A,Wright,0.059812253,26683597.67,-0.79100781,till,Older Glacial,sand mud gravel,conglomerate,sandy gravel congolmerate,4.734060866,40.74477883,0.080421589,3.624193982,28.88856574,1.015669022,158,259,239,101,81,1.64,1.51,13.33,15,1.67
-WVBW177B,Wright,0.805847186,26620097,0.283267527,till,Older Glacial,sand mud gravel,conglomerate,sandy gravel congolmerate,6.604990296,43.33989845,-0.281646088,5.842579006,43.37566979,1.334898363,93,67,62,-26,-31,0.72,0.67,33.33,30,-3.33
+WVBW176A,Wright,0.456324471,28029429,-0.002582194,gravel,Alluvial,sand silt gravel,conglomerate,sandy gravel conglomerate,5.534819294,46.53899611,0.052530042,2.849951255,25.64667738,0.775043209,105,232,432,127,327,2.21,4.11,21.67,21.67,0
+WVBW176B,Wright,0.1734965,22968661,-0.075455334,gravel,Alluvial,sand silt gravel,conglomerate,sandy gravel conglomerate,4.943585935,38.28746387,-0.349918633,2.699565113,26.65902107,0.832292701,102,126,131,24,29,1.24,1.28,13.33,18.33,5
+WVBW177A,Wright,0.059812253,26683597.67,-0.79100781,till,Older Glacial,sand mud gravel,conglomerate,sandy gravel conglomerate,4.734060866,40.74477883,0.080421589,3.624193982,28.88856574,1.015669022,158,259,239,101,81,1.64,1.51,13.33,15,1.67
+WVBW177B,Wright,0.805847186,26620097,0.283267527,till,Older Glacial,sand mud gravel,conglomerate,sandy gravel conglomerate,6.604990296,43.33989845,-0.281646088,5.842579006,43.37566979,1.334898363,93,67,62,-26,-31,0.72,0.67,33.33,30,-3.33
 WVBW178A,Wright,0.144448418,27972127.33,1.009109087,till,Younger Glacial,sand conglomerate,conglomerate,sandy conglomerate,2.574571922,23.24792996,1.106404881,6.386969347,40.37295849,-0.356318769,50,68,73,18,23,1.36,1.46,15,28.33,13.33
 WVBW178B,Wright,0.670085248,23411841,0.568080839,till,Younger Glacial,sand conglomerate,conglomerate,sandy conglomerate,14.68683709,117.8967991,-1.297877491,21.59709724,105.2936882,-0.344407569,45,54,43,9,-2,1.2,0.96,30,25,-5
 WVIN400A,Wright,0.624707399,30011602.33,0.634085802,till,Younger Glacial,breccia gravel tillite,breccia,gravel breccia,NA,NA,NA,NA,NA,NA,396,600,600,204,204,1.52,1.52,0.67,8.33,7.67
 WVIN400B,Wright,0.824924144,34790917.67,1.291868957,till,Younger Glacial,breccia gravel tillite,breccia,gravel breccia,NA,NA,NA,NA,NA,NA,600,369,355,-231,-245,0.62,0.59,15,15,0
 WVIN401A,Wright,0.936263707,34651031.33,0.88068272,till,Younger Glacial,breccia gravel tillite,breccia,gravel breccia,NA,NA,NA,NA,NA,NA,287,256,428,-31,141,0.89,1.49,3.33,6.67,3.33
 WVIN401B,Wright,0.862007114,34375860.67,NA,till,Younger Glacial,breccia gravel tillite,breccia,gravel breccia,NA,NA,NA,NA,NA,NA,490,459,478,-31,-12,0.94,0.98,1.33,11.67,10.33
-WVLV300A,Wright,0.971396218,31296978.5,0.269183534,till,Younger Glacial,silt sand,conglomerate,sandy silt congolmerate,NA,NA,NA,NA,NA,NA,39,41,49,2,10,1.05,1.26,6.67,15,8.33
-WVLV300B,Wright,1,NA,0.891233676,till,Younger Glacial,silt sand,conglomerate,sandy silt congolmerate,NA,NA,NA,NA,NA,NA,53,76,62,23,9,1.43,1.17,6.67,25,18.33
-WVLV301A,Wright,0.957314103,36503520.5,0.229087988,till,Older Glacial,silt sand,conglomerate,sandy silt congolmerate,NA,NA,NA,NA,NA,NA,135,258,1283,123,1148,1.91,9.5,10,31.67,21.67
-WVLV301B,Wright,1,38006991.5,0.353729601,till,Older Glacial,silt sand,conglomerate,sandy silt congolmerate,NA,NA,NA,NA,NA,NA,105,37,27,-68,-78,0.35,0.26,20,31.67,11.67
-WVLV302A,Wright,1,25977913,0.106463012,till,Younger Glacial,silt sand,conglomerate,sandy silt congolmerate,NA,NA,NA,NA,NA,NA,55,54,47,-1,-8,0.98,0.85,13.33,16.67,3.33
-WVLV302B,Wright,0.800851184,31899447,0.56076482,till,Older Glacial,silt sand,conglomerate,sandy silt congolmerate,NA,NA,NA,NA,NA,NA,73,130,43,57,-30,1.78,0.59,11.67,18.33,6.67
+WVLV300A,Wright,0.971396218,31296978.5,0.269183534,till,Younger Glacial,silt sand,conglomerate,sandy silt conglomerate,NA,NA,NA,NA,NA,NA,39,41,49,2,10,1.05,1.26,6.67,15,8.33
+WVLV300B,Wright,1,NA,0.891233676,till,Younger Glacial,silt sand,conglomerate,sandy silt conglomerate,NA,NA,NA,NA,NA,NA,53,76,62,23,9,1.43,1.17,6.67,25,18.33
+WVLV301A,Wright,0.957314103,36503520.5,0.229087988,till,Older Glacial,silt sand,conglomerate,sandy silt conglomerate,NA,NA,NA,NA,NA,NA,135,258,1283,123,1148,1.91,9.5,10,31.67,21.67
+WVLV301B,Wright,1,38006991.5,0.353729601,till,Older Glacial,silt sand,conglomerate,sandy silt conglomerate,NA,NA,NA,NA,NA,NA,105,37,27,-68,-78,0.35,0.26,20,31.67,11.67
+WVLV302A,Wright,1,25977913,0.106463012,till,Younger Glacial,silt sand,conglomerate,sandy silt conglomerate,NA,NA,NA,NA,NA,NA,55,54,47,-1,-8,0.98,0.85,13.33,16.67,3.33
+WVLV302B,Wright,0.800851184,31899447,0.56076482,till,Older Glacial,silt sand,conglomerate,sandy silt conglomerate,NA,NA,NA,NA,NA,NA,73,130,43,57,-30,1.78,0.59,11.67,18.33,6.67
 WVLV303A,Wright,0.971866159,22407143.5,-0.15079329,till,Younger Glacial,breccia gravel tillite,breccia,gravel breccia,5.71118473,45.33297878,0.517431441,5.242987408,62.90308983,1.488181476,82,105,66,23,-16,1.28,0.8,18.33,18.33,0
 WVLV303B,Wright,0.853990426,30766937.5,-0.671346777,till,Younger Glacial,breccia gravel tillite,breccia,gravel breccia,NA,NA,NA,NA,NA,NA,213,278,245,65,32,1.31,1.15,5,15,10
 WVLV305A,Wright,0.895593154,24470677.5,0.696303826,till,Local Glacial,breccia gravel tillite,breccia,gravel breccia,NA,NA,NA,NA,NA,NA,77,120,100,43,23,1.56,1.3,13.33,16.67,3.33
@@ -219,7 +219,7 @@ WVLV326A,Wright,0.959597351,24303159.67,-0.517087189,diamictite,Older Glacial,sa
 WVLV326B,Wright,0.869591449,28472464,-0.38035519,till,Older Glacial,sand fanglomerate,conglomerate,sandy conglomerate,4.457710478,34.74979282,0.281011926,3.987431722,35.58498057,1.471120503,60,97,75,37,15,1.62,1.25,11.67,21.67,10
 WVLV375A,Wright,0.893593023,29656676,1.207061964,diamictite,Older Glacial,sand mud gravel evaporite,conglomerate,sandy gravel conglomerate,5.277923263,51.47325374,1.013646096,8.45590571,64.08351349,0.006255802,95,87,54,-8,-41,0.92,0.57,26.67,16.67,-10
 WVLV375B,Wright,0.907993967,17903473.67,0.752051913,diamictite,Older Glacial,sand mud gravel evaporite,conglomerate,sandy gravel conglomerate,4.882785852,52.60935204,0.995891065,7.294407169,56.05159126,0.116626566,66,168,67,102,1,2.55,1.02,15,18.33,3.33
-WVLV376A,Wright,0.948396616,30026334.67,NA,till,Older Glacial,sand mud gravel evaporite,conglomerate,sandy gravel congolmerate,4.519707332,42.59515866,1.529428364,7.485868512,53.49569574,-0.346870523,37,107,109,70,72,2.89,2.95,18.33,35,16.67
+WVLV376A,Wright,0.948396616,30026334.67,NA,till,Older Glacial,sand mud gravel evaporite,conglomerate,sandy gravel conglomerate,4.519707332,42.59515866,1.529428364,7.485868512,53.49569574,-0.346870523,37,107,109,70,72,2.89,2.95,18.33,35,16.67
 WVLV376B,Wright,0.910394125,33668796.67,NA,sand,Aeolian,sand mud gravel evaporite,conglomerate,sand,3.832106795,37.84891822,0.854073945,7.497066345,53.75807968,-0.161130694,39,53,55,14,16,1.36,1.41,20,21.67,1.67
 WVLV377A,Wright,0.892392944,NA,-0.802025885,sand,Aeolian,sand silt gravel,conglomerate,sand,4.20392217,33.20044487,1.008873453,6.620719944,47.49627493,-0.06808337,97,59,78,-38,-19,0.61,0.8,8.33,21.67,13.33
 WVLV377B,Wright,0.741406309,NA,-0.669326458,till,Older Glacial,breccia gravel tillite,breccia,gravel breccia,NA,NA,NA,NA,NA,NA,42,65,99,23,57,1.55,2.36,10,15,5
